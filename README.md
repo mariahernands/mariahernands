@@ -1,60 +1,96 @@
-# 💫 Olá! Eu sou Maria Eduarda
+# <span style="color: #F7B6D0;">ABOUT ME</span>
 
-🎓 **Estudante e Estagiária em Sistemas de Informação**, apaixonada por tecnologia, criatividade e pelas diferentes possibilidades que a área de TI oferece.
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+  <img src="./assets/lotus.png" width="100%" alt="Flor de lótus rosa"/>
+</td>
+<td width="60%" valign="middle">
 
-Atualmente, estou explorando e aprimorando meus conhecimentos em diversas áreas, com maior interesse em **Desenvolvimento Web**, **UX/UI Design** e **Desenvolvimento Full Stack**. Ainda estou construindo minha trajetória profissional e descobrindo quais áreas mais combinam com meus objetivos e habilidades.
+<h1><span style="color: #B9E58C;">⤷</span> <span style="color: #F7B6D0;">Olá! Eu sou Maria Eduarda</span> <span style="color: #B9E58C;">♡⸝⸝</span></h1>
 
-## 🌷 Sobre mim
+Estudante e Estagiária em Sistemas de Informação, apaixonada por tecnologia, criatividade e pelas diferentes possibilidades que a área de TI oferece.
 
-- 💻 Estudante de Sistemas de Informação e estagiária na área de tecnologia.
-- 🌱 Atualmente estudando e aprimorando meus conhecimentos em desenvolvimento e programação.
-- 🎨 Interessada em **Design Digital** e **UX/UI**.
-- 📝 Explorando o universo do **Desenvolvimento Web e Full Stack**.
-- 📓 Gosto de ler e escrever sobre tecnologia.
-- 👩‍💻 Tenho interesse em participar de comunidades voltadas para **mulheres na tecnologia**.
-- 📁 Atualmente possuo **dois projetos em desenvolvimento**, que futuramente serão compartilhados por aqui.
+Atualmente, estou explorando e aprimorando meus conhecimentos em diversas áreas, com maior interesse em Desenvolvimento Web, UX/UI Design e Desenvolvimento Full Stack. Ainda estou construindo minha trajetória profissional e descobrindo quais áreas mais combinam com meus objetivos e habilidades.
 
-## 🛠️ Tecnologias e Ferramentas
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript" />
-</p>
+---
+
+## <span style="color: #B9E58C;">˗ˋˏ</span> <span style="color: #F7B6D0;">Sobre mim</span> <span style="color: #B9E58C;">ˎˊ˗</span>
+
+- ⋮ Estudante de Sistemas de Informação e estagiária na área de tecnologia.
+- ⋮ Atualmente estudando e aprimorando meus conhecimentos em desenvolvimento e programação.
+- ⋮ Interessada em Design Digital e UX/UI.
+- ⋮ Explorando o universo do Desenvolvimento Web e Full Stack.
+- ⋮ Gosto de ler e escrever sobre tecnologia.
+- ⋮ Tenho interesse em participar de comunidades voltadas para mulheres na tecnologia.
+- ⋮ Atualmente possuo dois projetos em desenvolvimento, que futuramente serão compartilhados por aqui.
+
+## <span style="color: #B9E58C;">&lt;/&gt;</span> <span style="color: #F7B6D0;">Tecnologias e Ferramentas</span>
 
 Atualmente, estou estudando e desenvolvendo minhas habilidades com:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 </p>
 
-## 📌 Projetos
+<p align="center">
+  <strong>C++</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Python</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>HTML5</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>CSS3</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>JavaScript</strong>
+</p>
 
-🚧 **Em construção!**
+## <span style="color: #B9E58C;">۶ৎ﹏</span> <span style="color: #F7B6D0;">Projetos</span>
+
+**Em construção!**
 
 Atualmente, estou desenvolvendo dois projetos que fazem parte do meu processo de aprendizado e evolução profissional. Em breve, eles estarão disponíveis aqui no GitHub.
 
-Enquanto isso, este perfil continuará sendo atualizado conforme novos projetos e conhecimentos forem surgindo. ✨
+Enquanto isso, este perfil continuará sendo atualizado conforme novos projetos e conhecimentos forem surgindo.
 
-## 🔍 Áreas que estou explorando
+## <span style="color: #B9E58C;">˖⌕ ۫ . . .</span> <span style="color: #F7B6D0;">Áreas que estou explorando</span> <span style="color: #B9E58C;">﹫</span>
 
-- 🖥️ Desenvolvimento Web
-- 🎨 UX/UI Design
-- 💻 Desenvolvimento Full Stack
+- Desenvolvimento Web
+- UX/UI Design
+- Desenvolvimento Full Stack
 
-## 💌 Contato
+## <span style="color: #B9E58C;">˗ˏˋ ꒰</span> <span style="color: #F7B6D0;">✉︎ Contato</span> <span style="color: #B9E58C;">꒱ ˎˊ˗</span>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/maria-eduarda-hernandes-456459366/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-eduarda-hernandes-456459366/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mariaeduardahnds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mariaeduardahernands@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-✨ *Este perfil é um espaço para compartilhar minha evolução, meus projetos e tudo o que estou aprendendo ao longo da minha jornada na tecnologia.*
+*Este perfil é um espaço para compartilhar minha evolução, meus projetos e tudo o que estou aprendendo ao longo da minha jornada na tecnologia ⭑.ᐟ*
+
+<p align="center">
+  <img src="./assets/renda.png" alt="Renda" width="700" />
+</p>
+
+<p align="right">
+  <img src="./assets/cinna.gif" alt="Cinna" width="100" />
+</p>
