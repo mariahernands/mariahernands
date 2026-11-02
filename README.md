@@ -1,4 +1,4 @@
-# <span style="color: #F7B6D0;">ABOUT ME</span>
+# ![ABOUT ME](./assets/about-me.svg)
 
 <table>
 <tr>
@@ -7,7 +7,7 @@
 </td>
 <td width="60%" valign="middle">
 
-<h1><span style="color: #B9E58C;">⤷</span> <span style="color: #F7B6D0;">Olá! Eu sou Maria Eduarda</span> <span style="color: #B9E58C;">♡⸝⸝</span></h1>
+<h1><img src="./assets/hello-title.svg" alt="⤷ Olá! Eu sou Maria Eduarda ♡⸝⸝"/></h1>
 
 Estudante e Estagiária em Sistemas de Informação, apaixonada por tecnologia, criatividade e pelas diferentes possibilidades que a área de TI oferece.
 
@@ -19,7 +19,7 @@ Atualmente, estou explorando e aprimorando meus conhecimentos em diversas áreas
 
 ---
 
-## <span style="color: #B9E58C;">˗ˋˏ</span> <span style="color: #F7B6D0;">Sobre mim</span> <span style="color: #B9E58C;">ˎˊ˗</span>
+## ![˗ˋˏ Sobre mim ˎˊ˗](./assets/about-section.svg)
 
 - ⋮ Estudante de Sistemas de Informação e estagiária na área de tecnologia.
 - ⋮ Atualmente estudando e aprimorando meus conhecimentos em desenvolvimento e programação.
@@ -29,7 +29,7 @@ Atualmente, estou explorando e aprimorando meus conhecimentos em diversas áreas
 - ⋮ Tenho interesse em participar de comunidades voltadas para mulheres na tecnologia.
 - ⋮ Atualmente possuo dois projetos em desenvolvimento, que futuramente serão compartilhados por aqui.
 
-## <span style="color: #B9E58C;">&lt;/&gt;</span> <span style="color: #F7B6D0;">Tecnologias e Ferramentas</span>
+## ![</> Tecnologias e Ferramentas](./assets/technologies-section.svg)
 
 Atualmente, estou estudando e desenvolvendo minhas habilidades com:
 
@@ -57,7 +57,7 @@ Atualmente, estou estudando e desenvolvendo minhas habilidades com:
   <strong>JavaScript</strong>
 </p>
 
-## <span style="color: #B9E58C;">۶ৎ﹏</span> <span style="color: #F7B6D0;">Projetos</span>
+## ![۶ৎ﹏ Projetos](./assets/projects-section.svg)
 
 **Em construção!**
 
@@ -65,13 +65,13 @@ Atualmente, estou desenvolvendo dois projetos que fazem parte do meu processo de
 
 Enquanto isso, este perfil continuará sendo atualizado conforme novos projetos e conhecimentos forem surgindo.
 
-## <span style="color: #B9E58C;">˖⌕ ۫ . . .</span> <span style="color: #F7B6D0;">Áreas que estou explorando</span> <span style="color: #B9E58C;">﹫</span>
+## ![˖⌕ ۫ . . . Áreas que estou explorando ﹫](./assets/areas-section.svg)
 
 - Desenvolvimento Web
 - UX/UI Design
 - Desenvolvimento Full Stack
 
-## <span style="color: #B9E58C;">˗ˏˋ ꒰</span> <span style="color: #F7B6D0;">✉︎ Contato</span> <span style="color: #B9E58C;">꒱ ˎˊ˗</span>
+## ![˗ˏˋ ꒰ Contato ꒱ ˎˊ˗](./assets/contact-section.svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-hernandes-456459366/" target="_blank">
